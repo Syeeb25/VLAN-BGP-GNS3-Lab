@@ -1,4 +1,4 @@
-# 🔷 VLAN + BGP Network Lab (GNS3)
+ # VLAN + BGP Network Lab (GNS3)  #
 
 
 This project demonstrates the design and implementation of a multi-network topology using **VLANs, Inter-VLAN Routing (Router-on-a-Stick), and BGP (Border Gateway Protocol)** in a simulated environment using GNS3.
